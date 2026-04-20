@@ -33,3 +33,5 @@ This project predicts the direction of daily Gold Futures returns using lagged p
 1. Clone the repository:
    ```bash
    git clone https://github.com/CalBoa/MSDS-451.git
+## AI Usage Disclosure
+I used AI assistants to help with code debugging, code completion, interpretation of outputs, and drafting documentation. I reviewed,edited, tested, and finalized the submission myself.
